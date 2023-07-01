@@ -1,0 +1,12 @@
+.navDiv{
+
+}
+
+.page_container {
+    height: 100vh;
+    width: 100vw;
+    background: url('/homebg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
